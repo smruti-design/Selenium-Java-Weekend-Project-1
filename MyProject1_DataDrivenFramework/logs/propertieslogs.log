@@ -1,0 +1,10 @@
+[ERROR] 2022-08-21 16:43:20.068 [main] TestBase - error
+[FATAL] 2022-08-21 16:43:20.071 [main] TestBase - fatal
+[INFO ] 2022-08-21 16:43:22.380 [main] TestBase - end 
+[DEBUG] 2022-08-21 16:43:22.380 [main] TestBase - debug
+[WARN ] 2022-08-21 16:43:22.380 [main] TestBase - warning
+[INFO ] 2022-08-21 16:43:33.673 [main] TestBase - end 
+[INFO ] 2022-08-21 17:04:18.257 [main] TestBase - Opening the test site
+[INFO ] 2022-08-21 17:04:18.395 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-21 17:04:18.532 [main] TestBase - Clicked on the bankManagerLogin Button
+[INFO ] 2022-08-21 17:04:29.335 [main] TestBase - Quiting the chrome driver

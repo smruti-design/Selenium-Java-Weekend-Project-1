@@ -3,16 +3,20 @@ package com.base;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.NoSuchElementException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
+import com.utilities.ExcelReader;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -34,7 +38,8 @@ public class TestBase {
 	public static Properties objRepo = new Properties();
 	public static FileInputStream fis;
 	public static Logger logger = LogManager.getLogger(TestBase.class);
-	
+	public static ExcelReader excel = new ExcelReader(System.getProperty("user.dir")+"//src//test//resources//excel//testdata.xlsx");
+	public static WebDriverWait wait;
 	
 	@BeforeSuite
 	public void setUp() {
@@ -73,9 +78,19 @@ public class TestBase {
 			driver.manage().window().maximize();
 			logger.info("Maximizing the window size");
 			driver.manage().timeouts().implicitlyWait(Integer.parseInt(config.getProperty("implicitlyWait")), TimeUnit.SECONDS);
+			wait = new WebDriverWait(driver, 5);
 					
 		}
 		
+	}
+	
+	public boolean isElementPresent(By by) {
+		try {
+			driver.findElement(by);
+			return true;
+		}catch(NoSuchElementException e) {
+			return false;
+		}
 	}
 	
 	@AfterSuite

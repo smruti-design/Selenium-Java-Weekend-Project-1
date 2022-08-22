@@ -8,3 +8,40 @@
 [INFO ] 2022-08-21 17:04:18.395 [main] TestBase - Maximizing the window size
 [INFO ] 2022-08-21 17:04:18.532 [main] TestBase - Clicked on the bankManagerLogin Button
 [INFO ] 2022-08-21 17:04:29.335 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-22 16:05:24.391 [main] TestBase - Opening the test site
+[INFO ] 2022-08-22 16:05:24.561 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-22 16:05:24.758 [main] TestBase - Clicked on the bankManagerLogin Button
+[INFO ] 2022-08-22 16:05:26.229 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-22 16:05:53.809 [main] TestBase - Opening the test site
+[INFO ] 2022-08-22 16:05:53.975 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-22 16:05:54.184 [main] TestBase - Clicked on the bankManagerLogin Button
+[INFO ] 2022-08-22 16:06:04.995 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-22 17:57:16.481 [main] TestBase - Opening the test site
+[INFO ] 2022-08-22 17:57:16.653 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-22 17:57:16.863 [main] TestBase - Clicked on the bankManagerLogin Button
+[INFO ] 2022-08-22 17:57:20.804 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-22 18:06:59.437 [main] TestBase - Opening the test site
+[INFO ] 2022-08-22 18:06:59.623 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-22 18:07:11.246 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-22 18:07:46.912 [main] TestBase - Opening the test site
+[INFO ] 2022-08-22 18:07:47.057 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-22 18:07:47.342 [main] TestBase - Clicked on the bankManagerLogin Button
+[INFO ] 2022-08-22 18:07:47.968 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-22 18:07:48.425 [main] TestBase - Entered the first name
+[INFO ] 2022-08-22 18:07:48.538 [main] TestBase - Entered the last name
+[INFO ] 2022-08-22 18:07:48.653 [main] TestBase - Entered the post code
+[INFO ] 2022-08-22 18:07:48.730 [main] TestBase - Clicked on the add button
+[INFO ] 2022-08-22 18:07:49.524 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-22 19:04:46.761 [main] TestBase - Opening the test site
+[INFO ] 2022-08-22 19:04:46.894 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-22 19:04:47.045 [main] TestBase - Clicked on the bankManagerLogin Button
+[INFO ] 2022-08-22 19:04:47.948 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-22 19:21:41.996 [main] TestBase - Opening the test site
+[INFO ] 2022-08-22 19:21:42.183 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-22 19:21:42.431 [main] TestBase - Clicked on the bankManagerLogin Button
+[INFO ] 2022-08-22 19:21:42.703 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-22 19:21:42.919 [main] TestBase - Entered the first name
+[INFO ] 2022-08-22 19:21:43.035 [main] TestBase - Entered the last name
+[INFO ] 2022-08-22 19:21:43.166 [main] TestBase - Entered the post code
+[INFO ] 2022-08-22 19:21:43.278 [main] TestBase - Clicked on the add button
+[INFO ] 2022-08-22 19:21:44.164 [main] TestBase - Quiting the chrome driver

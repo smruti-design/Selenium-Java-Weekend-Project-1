@@ -14,20 +14,17 @@ public class AddCustomerTest extends TestBase{
 	@Test(dataProvider="getData")
 	public void addCustomer(String firstName, String lastName, String postCode, String alertMessage) {
 		
-		driver.findElement(By.cssSelector(objRepo.getProperty("addCustomer"))).click();
+		click("addCustomer_CSS");
 		logger.info("Clicked on the add customer button");
-		driver.findElement(By.cssSelector(objRepo.getProperty("firstName"))).sendKeys(firstName);
-		logger.info("Entered the first name");
-		driver.findElement(By.cssSelector(objRepo.getProperty("lastName"))).sendKeys(lastName);
-		logger.info("Entered the last name");
-		driver.findElement(By.cssSelector(objRepo.getProperty("postCode"))).sendKeys(postCode);
-		logger.info("Entered the post code");
-		driver.findElement(By.cssSelector(objRepo.getProperty("addBtn"))).click();
-		logger.info("Clicked on the add button");
+		type("firstName_CSS",firstName);
+		type("lastName_CSS",lastName);		
+		type("postCode_CSS",postCode);
+		click("addBtn_CSS");
 		
 		Alert alert = wait.until(ExpectedConditions.alertIsPresent());
 		Assert.assertTrue(alert.getText().contains(alertMessage));
 		alert.accept();
+		
 	}
 	
 	@DataProvider

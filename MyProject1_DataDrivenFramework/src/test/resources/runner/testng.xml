@@ -5,6 +5,7 @@
     <classes>
       <class name="testcases.BankManagerLoginTest"/>
       <class name="testcases.AddCustomerTest"/>
+      <class name="testcases.OpenAccountTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

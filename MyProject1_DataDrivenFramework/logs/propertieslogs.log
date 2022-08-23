@@ -45,3 +45,139 @@
 [INFO ] 2022-08-22 19:21:43.166 [main] TestBase - Entered the post code
 [INFO ] 2022-08-22 19:21:43.278 [main] TestBase - Clicked on the add button
 [INFO ] 2022-08-22 19:21:44.164 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 15:17:20.003 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 15:17:20.178 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 15:17:41.456 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 15:20:48.715 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 15:20:48.866 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 15:20:49.062 [main] TestBase - clicked on bankManagerLogin
+[INFO ] 2022-08-23 15:20:49.396 [main] TestBase - clicked on addCustomer
+[INFO ] 2022-08-23 15:20:49.398 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 15:20:49.731 [main] TestBase - Entered the values smruti on firstName
+[INFO ] 2022-08-23 15:20:49.873 [main] TestBase - Entered the values sahoo on lastName
+[INFO ] 2022-08-23 15:20:50.155 [main] TestBase - Entered the values 751005.0 on postCode
+[INFO ] 2022-08-23 15:20:50.305 [main] TestBase - clicked on addBtn
+[INFO ] 2022-08-23 15:20:51.305 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 15:38:44.582 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 15:38:44.739 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 15:38:44.985 [main] TestBase - clicked on bankManagerLogin_CSS
+[INFO ] 2022-08-23 15:38:45.265 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 15:38:45.266 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 15:38:45.748 [main] TestBase - Entered the values smruti on firstName_CSS
+[INFO ] 2022-08-23 15:38:45.856 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 15:38:45.965 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 15:38:46.035 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 15:38:46.832 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 15:53:06.186 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 15:53:06.350 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 15:53:06.564 [main] TestBase - clicked on bankManagerLogin_CSS
+[INFO ] 2022-08-23 15:53:07.312 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 15:53:07.313 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 15:53:07.673 [main] TestBase - Entered the values smruti on firstName_CSS
+[INFO ] 2022-08-23 15:53:07.793 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 15:53:07.924 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 15:53:08.042 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 15:53:08.891 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 15:56:01.269 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 15:56:01.452 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 15:56:01.858 [main] TestBase - clicked on bankManagerLogin_CSS
+[INFO ] 2022-08-23 15:56:02.168 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 15:56:02.168 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 15:56:02.799 [main] TestBase - Entered the values smruti on firstName_CSS
+[INFO ] 2022-08-23 15:56:02.932 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 15:56:03.079 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 15:56:03.212 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 15:56:04.257 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 15:57:01.549 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 15:57:01.724 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 15:57:01.952 [main] TestBase - clicked on bankManagerLogin_CSS
+[INFO ] 2022-08-23 15:57:02.669 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 15:57:02.670 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 15:57:03.078 [main] TestBase - Entered the values smruti on firstName_CSS
+[INFO ] 2022-08-23 15:57:03.187 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 15:57:03.294 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 15:57:03.385 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 15:57:04.202 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 15:57:39.280 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 15:57:39.503 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 15:57:39.726 [main] TestBase - clicked on bankManagerLogin_CSS
+[INFO ] 2022-08-23 15:57:40.021 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 15:57:40.021 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 15:57:40.261 [main] TestBase - Entered the values smruti on firstName_CSS
+[INFO ] 2022-08-23 15:57:40.363 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 15:57:40.481 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 15:57:40.553 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 15:57:41.364 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 18:21:42.721 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 18:21:42.875 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 18:21:43.158 [main] TestBase - clicked on bankManagerLogin_CSS
+[INFO ] 2022-08-23 18:21:43.469 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:21:43.469 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:21:43.726 [main] TestBase - Entered the values smruti on firstName_CSS
+[INFO ] 2022-08-23 18:21:43.865 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 18:21:44.009 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 18:21:44.243 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:21:44.367 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:21:44.367 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:21:44.482 [main] TestBase - Entered the values rahul on firstName_CSS
+[INFO ] 2022-08-23 18:21:44.605 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 18:21:44.721 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 18:21:44.784 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:21:44.922 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:21:44.922 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:21:45.034 [main] TestBase - Entered the values tintun on firstName_CSS
+[INFO ] 2022-08-23 18:21:45.174 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 18:21:45.282 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 18:21:45.351 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:21:45.470 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:21:45.470 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:21:45.574 [main] TestBase - Entered the values lukeworm on firstName_CSS
+[INFO ] 2022-08-23 18:21:45.934 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 18:21:46.061 [main] TestBase - Entered the values 751009.0 on postCode_CSS
+[INFO ] 2022-08-23 18:21:46.120 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:21:46.206 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:21:46.206 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:21:46.276 [main] TestBase - Entered the values smart on firstName_CSS
+[INFO ] 2022-08-23 18:21:46.356 [main] TestBase - Entered the values baby on lastName_CSS
+[INFO ] 2022-08-23 18:21:46.441 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 18:21:46.515 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:21:46.684 [main] TestBase - clicked on openAccount_CSS
+[INFO ] 2022-08-23 18:22:07.865 [main] TestBase - Quiting the chrome driver
+[INFO ] 2022-08-23 18:23:28.436 [main] TestBase - Opening the test site
+[INFO ] 2022-08-23 18:23:28.603 [main] TestBase - Maximizing the window size
+[INFO ] 2022-08-23 18:23:28.861 [main] TestBase - clicked on bankManagerLogin_CSS
+[INFO ] 2022-08-23 18:23:29.219 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:23:29.219 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:23:29.849 [main] TestBase - Entered the values smruti on firstName_CSS
+[INFO ] 2022-08-23 18:23:29.989 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 18:23:30.108 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 18:23:30.208 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:23:30.308 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:23:30.308 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:23:30.422 [main] TestBase - Entered the values rahul on firstName_CSS
+[INFO ] 2022-08-23 18:23:30.536 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 18:23:30.663 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 18:23:30.725 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:23:30.853 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:23:30.854 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:23:30.936 [main] TestBase - Entered the values tintun on firstName_CSS
+[INFO ] 2022-08-23 18:23:31.098 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 18:23:31.323 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 18:23:31.368 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:23:31.444 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:23:31.444 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:23:31.522 [main] TestBase - Entered the values lukeworm on firstName_CSS
+[INFO ] 2022-08-23 18:23:31.634 [main] TestBase - Entered the values sahoo on lastName_CSS
+[INFO ] 2022-08-23 18:23:31.751 [main] TestBase - Entered the values 751009.0 on postCode_CSS
+[INFO ] 2022-08-23 18:23:31.811 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:23:31.931 [main] TestBase - clicked on addCustomer_CSS
+[INFO ] 2022-08-23 18:23:31.931 [main] TestBase - Clicked on the add customer button
+[INFO ] 2022-08-23 18:23:31.999 [main] TestBase - Entered the values smart on firstName_CSS
+[INFO ] 2022-08-23 18:23:32.100 [main] TestBase - Entered the values baby on lastName_CSS
+[INFO ] 2022-08-23 18:23:32.227 [main] TestBase - Entered the values 751005.0 on postCode_CSS
+[INFO ] 2022-08-23 18:23:32.288 [main] TestBase - clicked on addBtn_CSS
+[INFO ] 2022-08-23 18:23:32.468 [main] TestBase - clicked on openAccount_CSS
+[INFO ] 2022-08-23 18:23:33.737 [main] TestBase - Select on the dropdown value smruti sahoo
+[INFO ] 2022-08-23 18:23:33.867 [main] TestBase - Select on the dropdown value Rupee
+[INFO ] 2022-08-23 18:23:33.951 [main] TestBase - clicked on process_CSS
+[INFO ] 2022-08-23 18:23:34.766 [main] TestBase - Quiting the chrome driver
